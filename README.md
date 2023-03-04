@@ -3,12 +3,12 @@
 
 # Installation
 - install XAMPP (PHP 8.1.12)
-- add all file to \xampp\htdocs
+- add all files to \xampp\htdocs
 - start Apache and MySQL in XAMPP control panel
 - create a database called meczyki
-- import file meczyki.sql to database
+- import file meczyki.sql into database
 
-# Use
+# Usage
 - open http://localhost/Article_system/public/
 - In the menu you can choose to display or add articles
 
@@ -19,4 +19,3 @@
   http://localhost/Article_system/public/api/article/findbyauthorid/{author_id}
 3.  Get top 3 authors that wrote the most articles last week.
   http://localhost/Article_system/public/api/article/gettop3
-  
