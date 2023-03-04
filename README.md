@@ -10,7 +10,7 @@
 
 # Use
 - open http://localhost/Article_system/public/
-In the menu you can choose to display or add articles
+- In the menu you can choose to display or add articles
 
 # Endpoints
 1. Get article by some id:
